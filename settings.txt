@@ -1,0 +1,4 @@
+root: C:\Users\fares\Desktop\vite_grafikart 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
